@@ -47,3 +47,8 @@ class Main {
    
    }
 }
+
+
+while(three-- > 0) a[index++] = 3;
+        while(six-- > 0) a[index++] = 6;
+        while(seven-- > 0) a[index++] = 7;
